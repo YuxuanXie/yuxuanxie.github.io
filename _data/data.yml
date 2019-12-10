@@ -97,14 +97,11 @@ experiences:
       Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD.
       Implemented Quantization Scheme for 16 bits on FPGA.
 
-      - Bullet point
-      - Bullet point
-
   - role: Developer
     time: 2018-2019
     company: Auto Test and Control Lab
     details:
-      Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq.
+      Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq.\n
       Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
 
   - role: Developer
