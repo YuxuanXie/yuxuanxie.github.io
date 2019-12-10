@@ -88,6 +88,14 @@ educationcomplete:
       time: 2016 - 2020
       details: |
 
+experiences:
+  - role: Lead Developer
+    time: 2018-2019
+    company: Auto Test and Control Lab
+    details:
+      Quantized floating point data of DL Networks into 16 or 8 bits in the inference process on Caffe.
+      Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD.
+      Implemented Quantization Scheme for 16 bits on FPGA
 
 #experiences:
     #- role: Lead Developer
