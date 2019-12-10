@@ -29,9 +29,9 @@ sidebar:
 
       - idiom: English
 
-    interests:
-      - item: |
-        link:
+    # interests:
+    #   - item: |
+    #     link:
 
 
 career-profile:
