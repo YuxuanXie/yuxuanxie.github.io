@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: yuxuan.xie@hotmail.com
     phone:
-    website: yuxuanxie.github.io/publications/ #do not add http://
+    website:
     linkedin:
     github: yuxuanxie
     gitlab:
@@ -52,12 +52,12 @@ career-profile:
 
 education:
 
-    - degree: Exchange student funded by CSC
+    - degree: Exchange student
       university: INSA de Lyon
       time: 2019 - 2020
       details: |
 
-    - degree: Exchange student funded by HIT
+    - degree: Exchange student
       university: Peaking University
       time: 2018 - 2018
       details: |
