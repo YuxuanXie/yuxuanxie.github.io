@@ -39,15 +39,16 @@ career-profile:
     summary: |
 
 
-# news:
-#     title: News
-#     intro: |
-#
-#
-#     posts:
-#         - time: July 2019
-#           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-#
+news:
+    title: News
+    intro: |
+
+
+    posts:
+
+        - time: April 2019
+          title: Paper accepted at IIHMSP in Jilin China.
+
 
 
 education:
@@ -157,39 +158,16 @@ educationcomplete:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
-#
-#
-#     papers:
-#       - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-#         authors: B. Brattoli*, K. Roth*, B. Ommer
-#         conference: ICCV, 2019
-#
-#       - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-#         authors: B. Brattoli*, U. Buechler*, B. Ommer
-#         conference: ECCV, 2018
-#
-#       - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-#         authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-#         conference: CVPR, 2017
-#
-#       - title: "Cross and Learn: Cross-Modal Self-Supervision"
-#         authors: N. Sayer, B. Brattoli, B. Ommer
-#         conference: oral at GCPR, 2018
-#
-#       - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-#         authors: O. Blum, B. Brattoli, B. Ommer
-#         conference: oral at GCPR, 2018
-#
-#       - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-#         authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-#         conference: "Nature Communications, 2017"
-#
-#       - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-#         authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-#         conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+publications:
+    title: Publications
+    intro: |
+
+
+    papers:
+      - title: "A FPGA-Oriented Quantization Scheme for MobileNet-SSD"
+        authors: "Xie Yuxuan, Liu Bing, Feng Lei, Li Xipeng, Zou Danyin. "
+        conference: IIHMSP/FITAT, 2019
+
 
 # skills:
     # title: Skills &amp; Proficiency
