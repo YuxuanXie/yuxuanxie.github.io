@@ -101,12 +101,12 @@ experiences:
     time: 2018-2019
     company: Auto Test and Control Lab
     details:
-      Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq.\n
+      Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq.
       Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
 
   - role: Developer
     time: 2018-2018
-    company: Wireless charging Lab
+    company: Wireless Charging Lab
     details:
       Manufactured and debugged control module to control, communicate and measure
 
