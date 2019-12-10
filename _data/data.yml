@@ -93,9 +93,29 @@ experiences:
     time: 2018-2019
     company: Auto Test and Control Lab
     details:
-      1. Quantized floating point data of DL Networks into 16 or 8 bits in the inference process on Caffe.
-      2. Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD.
-      3. Implemented Quantization Scheme for 16 bits on FPGA.
+      Quantized floating point data of DL Networks into 16 or 8 bits in the inference process on Caffe.
+      Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD.
+      Implemented Quantization Scheme for 16 bits on FPGA.
+
+      - Bullet point
+      - Bullet point
+
+  - role: Developer
+    time: 2018-2019
+    company: Auto Test and Control Lab
+    details:
+      Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq.
+      Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
+
+  - role: Developer
+    time: 2018-2018
+    company: Wireless charging Lab
+    details:
+      Manufactured and debugged control module to control, communicate and measure
+
+
+
+
 
 #experiences:
     #- role: Lead Developer
