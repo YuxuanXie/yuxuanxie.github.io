@@ -42,9 +42,11 @@ news:
 
 
     posts:
+        - time: February 2020
+          title: Submitted a paper to ICML 2020.
 
         - time: September 2019
-          title: Join CITI-Lab in INSA de Lyon. Majoring Dec-POMDPs supervised by Prof. Jilles.
+          title: Joined CITI-Lab in INSA de Lyon. Majoring Dec-POMDPs supervised by Prof. Jilles.
 
         - time: April 2019
           title: Paper accepted at IIHMSP in Jilin China.
