@@ -42,6 +42,10 @@ news:
 
 
     posts:
+
+        - time: June 2020
+          title: Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing Accepted by ICML 2020 
+
         - time: February 2020
           title: Submitted a paper to ICML 2020.
 
@@ -88,6 +92,14 @@ educationcomplete:
       details: |
 
 experiences:
+
+  - role: Assistant Researcher
+    time: 2019-2020
+    company: Chrome, CITI LAB, INSA-Lyon
+    details:
+      Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing
+      Supervised by Prof. Dibangoye
+
   - role: Lead Developer
     time: 2018-2019
     company: Auto Test and Control Lab
@@ -175,3 +187,20 @@ publications:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
+
+
+remote repo -> github
+
+git push
+
+local repo -> PC
+
+git commit -m "Yx: do sth"
+
+local cache
+
+git stage/add $(file)
+
+changes !!!  
