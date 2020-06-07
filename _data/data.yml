@@ -97,8 +97,8 @@ experiences:
     time: 2019-2020
     company: Chrome, CITI LAB, INSA-Lyon
     details:
-      Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing
-      Supervised by Prof. Dibangoye
+      Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing.
+      Supervised by Prof. Dibangoye.
 
   - role: Lead Developer
     time: 2018-2019
@@ -191,16 +191,16 @@ footer: >
 
 
 
-remote repo -> github
+# remote repo -> github
 
-git push
+# git push
 
-local repo -> PC
+# local repo -> PC
 
-git commit -m "Yx: do sth"
+# git commit -m "Yx: do sth"
 
-local cache
+# local cache
 
-git stage/add $(file)
+# git stage/add $(file)
 
-changes !!!  
+# changes !!!  
