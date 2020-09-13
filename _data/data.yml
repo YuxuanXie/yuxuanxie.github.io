@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Yuxuan XIE
-    tagline: I just enjoy learning something new.
+    tagline: Be happy! 
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: yuxuan.xie@hotmail.com
@@ -34,7 +34,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: I am a master student in Harbin Institute of Technology. My research interests lie in Reinforcement Learning, particularly in Multi-Agent RL.
 
 news:
     title: News
@@ -59,6 +59,11 @@ news:
 
 education:
 
+    - degree: Master
+      university: Harbin Institute of Technology
+      time: 2020 - 2022
+      details: |
+
     - degree: Exchange student
       university: INSA de Lyon
       time: 2019 - 2020
@@ -76,6 +81,11 @@ education:
 
 
 educationcomplete:
+    - degree: Master
+      university: Harbin Institute of Technology
+      time: 2020 - 2022
+      details: |
+    
     - degree: Exchange student funded by CSC
       university: INSA de Lyon
       time: 2019 - 2020
@@ -100,7 +110,7 @@ experiences:
 
   - role: Research Assistant 
     time: 2019.9-2020.6
-    company: Chrome, CITI LAB, INSA-Lyon
+    company: Chroma, CITI LAB, INSA-Lyon & INRIA
     details:
       Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing.
       Supervised by Prof. Dibangoye.
