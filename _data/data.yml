@@ -112,10 +112,10 @@ experiences:
   - role: Research Assistant 
     time: 2019.9-2020.6
     company: Chroma, CITI LAB, INSA-Lyon & INRIA
-    details: |
-      * Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing.
-      * Supervised by Prof. Dibangoye. -----
-
+    details: "
+      - Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing.
+      - Supervised by Prof. Dibangoye. 
+      "
   - role: Lead Developer
     time: 2018-2019
     company: Auto Test and Control Lab
