@@ -113,8 +113,8 @@ experiences:
     time: 2019.9-2020.6
     company: Chroma, CITI LAB, INSA-Lyon & INRIA
     details:
-      * Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing. <br />
-      * Supervised by Prof. Dibangoye. <br />
+      - Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing. <br />
+      - Supervised by Prof. Dibangoye. <br />
 
   - role: Lead Developer
     time: 2018-2019
@@ -128,8 +128,8 @@ experiences:
     time: 2018-2019
     company: Auto Test and Control Lab
     details:
-      * Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq. 
-      * Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
+      - Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq. 
+      - Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
 
   - role: Developer
     time: 2018-2018
