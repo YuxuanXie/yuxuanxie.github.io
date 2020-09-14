@@ -178,11 +178,11 @@ publications:
         conference: ICML, 2020
         # link: "https://drive.google.com/open?id=1adSUmoIajK7Fs-fvX1BlYPA5Vq_2Av9Y"
 
-#     papers:
-#       - title: "A FPGA-Oriented Quantization Scheme for MobileNet-SSD"
-#         authors: "Xie Yuxuan, Liu Bing, Feng Lei, Li Xipeng, Zou Danyin. "
-#         conference: IIHMSP/FITAT, 2019
-#         # link: "https://drive.google.com/open?id=1adSUmoIajK7Fs-fvX1BlYPA5Vq_2Av9Y"
+    papers:
+      - title: "A FPGA-Oriented Quantization Scheme for MobileNet-SSD"
+        authors: "Xie Yuxuan, Liu Bing, Feng Lei, Li Xipeng, Zou Danyin. "
+        conference: IIHMSP/FITAT, 2019
+        # link: "https://drive.google.com/open?id=1adSUmoIajK7Fs-fvX1BlYPA5Vq_2Av9Y"
 
 
 # skills:
