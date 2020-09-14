@@ -115,7 +115,7 @@ experiences:
     details: |
       * Proposed belief occupancy state as a summary to recast Dec-POMDPs under one-sideness sharing to boMDP which is MDP actually.
       * Implemented belief occupancy state Heuristic search and value iteration algorithm to solve boMDP.
-      * Applied linear programming and tabular method to improve the scability.
+      * Applied linear programming and tabular method to improve the scalability.
       
   - role: Lead Developer
     time: 2018-2019
