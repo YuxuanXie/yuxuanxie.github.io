@@ -107,35 +107,36 @@ experiences:
   - role: RL Internship
     time: 2020.7-2020.9
     company: Parametrix.ai
-    details:
+    details: | 
 
   - role: Research Assistant 
     time: 2019.9-2020.6
     company: Chroma, CITI LAB, INSA-Lyon & INRIA
-    details: "
-      - Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing.
-      - Supervised by Prof. Dibangoye. 
-      "
+    details: |
+      * Propose belief occupancy state as a summary to recast Dec-POMDPs under one-sideness sharing to boMDP which is MDP actually.
+      * Implement belief occupancy state Heuristic search and value iteration algorithm to solve boMDP.
+      * Apply linear programming and tabular method to improve the scability.
+      
   - role: Lead Developer
     time: 2018-2019
     company: Auto Test and Control Lab
-    details:
-      Quantized floating point data of DL Networks into 16 or 8 bits in the inference process on Caffe. <br />
-      Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD. <br />
-      Implemented Quantization Scheme for 16 bits on FPGA. <br />
+    details: | 
+      * Quantized floating point data of DL Networks into 16 or 8 bits in the inference process on Caffe.
+      * Applied KL Divergence and the loss of quantizing to 8 bits declined to 1.5% for MobileNet-SSD.
+      * Implemented Quantization Scheme for 16 bits on FPGA.
 
   - role: Developer
     time: 2018-2019
     company: Auto Test and Control Lab
-    details:
-      - Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq. 
-      - Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
+    details: |
+      * Designed and trained DL Network for diagnosis of pneumonia on Caffe and implemented on Zynq. 
+      * Won 2nd Place in the 16th Challenge Cup and Silver Award in the 9th Zuguang Cup.
 
   - role: Developer
     time: 2018-2018
     company: Wireless Charging Lab
-    details:
-      Manufactured and debugged control module to control, communicate and measure
+    details: |
+      * Manufactured and debugged control module for a wireless charging system.
 
 
 
