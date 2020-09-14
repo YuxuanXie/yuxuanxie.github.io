@@ -34,7 +34,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: I am a master student in Harbin Institute of Technology, where I got my Bachelor degree. My research interests lie in Reinforcement Learning, particularly in Multi-Agent RL.
+    summary: |
 
 news:
     title: News
@@ -81,6 +81,7 @@ education:
 
 
 educationcomplete:
+
     - degree: Master
       university: Harbin Institute of Technology
       time: 2020 - 2022
@@ -105,7 +106,7 @@ experiences:
 
   - role: RL Internship
     time: 2020.7-2020.9
-    company: parametrix.ai
+    company: Parametrix.ai
     details:
 
   - role: Research Assistant 
