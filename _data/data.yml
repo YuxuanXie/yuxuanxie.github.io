@@ -105,6 +105,11 @@ educationcomplete:
 experiences:
 
   - role: RL Internship
+    time: 2020.12-2021.3
+    company: Netease Fuxi LAB
+    details: | 
+
+  - role: RL Internship
     time: 2020.7-2020.9
     company: Parametrix.ai
     details: | 
