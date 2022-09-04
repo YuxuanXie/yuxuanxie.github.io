@@ -43,8 +43,23 @@ news:
 
     posts:
 
+        - time: Aug 2022
+          title: The paper named Correcting Biased Value Estimation in Mixing Value-Based Multi-Agent Reinforcement Learning by Multiple Choice Learning is accepted by Engineering Applications of Artificial Intelligence (IF:7.802:Q1).
+
+        - time: July 2022
+          title: Joined Tencent as full-time reinforcement learning engineer.
+
+        - time: July 2022
+          title: The paper named Multi-level credit assignment for cooperative multi-agent reinforcement learning is accepted by Applied Sciences (IF:2.838/Q2).
+
+        - time: December 2020
+          title: Joined Netease Fuxi AI lab as intern.
+
+        - time: July 2020
+          title: Joined a great company Parametrix.ai that focus on applying AI in games.
+
         - time: June 2020
-          title: Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing Accepted by ICML 2020. 
+          title: Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing accepted by ICML 2020. 
 
         - time: February 2020
           title: Submitted a paper to ICML 2020.
