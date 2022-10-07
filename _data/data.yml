@@ -44,7 +44,7 @@ news:
     posts:
 
         - time: Aug 2022
-          title: The paper named Correcting Biased Value Estimation in Mixing Value-Based Multi-Agent Reinforcement Learning by Multiple Choice Learning is accepted by Engineering Applications of Artificial Intelligence (IF:7.802:Q1).
+          title: The paper named Correcting Biased Value Estimation in Mixing Value-Based Multi-Agent Reinforcement Learning by Multiple Choice Learning is accepted by Engineering Applications of Artificial Intelligence (IF:7.802/Q1).
 
         - time: July 2022
           title: Joined Tencent as full-time reinforcement learning engineer.
@@ -193,6 +193,15 @@ publications:
     intro: |
 
     papers:
+
+      - title: "Correcting Biased Value Estimation in Mixing Value-Based Multi-Agent Reinforcement Learning by Multiple Choice Learning"
+        authors: "Liu Bing, Xie Yuxuan, Feng Lei, Fu Ping"
+        conference: Engineering Applications of Artificial Intelligence, 2022
+
+      - title: "Multi-level credit assignment for cooperative multi-agent reinforcement learning"
+        authors: " Feng Lei, Xie Yuxuan, Liu Bing, Wang Shuyan"
+        conference: Applied Sciences, 2022
+
       - title: "Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing"
         authors: "Xie Yuxuan, Jilles S. Dibangoye, Olivier Buffet"
         conference: ICML, 2020
