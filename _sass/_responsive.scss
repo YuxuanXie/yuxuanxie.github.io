@@ -1,38 +1,62 @@
-/* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+/* Tablet and below: stack sidebar on top */
+@media (max-width: 991px) {
 
-    body{
+    body {
         padding: 0;
+    }
+
+    .wrapper {
+        border-radius: 0;
     }
 
     .sidebar-wrapper {
         position: static;
         width: inherit;
+        height: auto;
+        min-height: 0;
     }
 
     .main-wrapper {
-        padding: 30px;
+        padding: 40px 32px;
     }
 
     .main-wrapper .time {
         position: static;
-        display: block;
-        margin-top: 5px;
+        display: inline-block;
+        margin-top: 6px;
     }
 
     .main-wrapper .upper-row {
-        margin-bottom: 0;
+        margin-bottom: 4px;
     }
 
-
-}
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-
-
+    .footer {
+        border-radius: 0;
+    }
 }
 
-/* Medium devices (desktops, 992px and up) */
+/* Phones */
+@media (max-width: 575px) {
+
+    .main-wrapper {
+        padding: 32px 20px;
+    }
+
+    .sidebar-wrapper .profile-container {
+        padding: 36px 24px 28px;
+    }
+
+    .sidebar-wrapper .container-block {
+        padding: 24px;
+    }
+
+    .main-wrapper .job-title,
+    .main-wrapper .degree {
+        font-size: 16px;
+    }
+}
+
+/* Skill bars align on larger screens */
 @media (min-width: 992px) {
 
     .skillset .level-title {
@@ -49,17 +73,4 @@
         position: relative;
         top: 1px;
     }
-
-
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-
-}
-
-
-/* Ex-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1400px) {
-
 }
