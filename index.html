@@ -2,22 +2,38 @@
 layout: default
 ---
 
+<div class="tabs">
+  <input type="radio" name="main-tab" id="tab-about" checked>
+  <input type="radio" name="main-tab" id="tab-research">
+  <input type="radio" name="main-tab" id="tab-experience">
 
-{% include career-profile.html %}
+  <nav class="tab-nav">
+    <label for="tab-about">About</label>
+    <label for="tab-research">Publications</label>
+    <label for="tab-experience">Experience</label>
+  </nav>
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
+  <div class="tab-panels">
 
-{% include news.html %}
+    <div class="tab-panel panel-about">
+      {% include career-profile.html %}
+      {% include news.html %}
+    </div><!--//panel-about-->
 
-{% include publications.html %}
+    <div class="tab-panel panel-research">
+      {% include publications.html %}
+    </div><!--//panel-research-->
 
-{% include educationcomplete.html %}
+    <div class="tab-panel panel-experience">
+      {% unless site.data.data.sidebar.education %}
+        {% include education.html %}
+      {% endunless %}
+      {% include educationcomplete.html %}
+      {% include experiences.html %}
+    </div><!--//panel-experience-->
 
-{% include experiences.html %}
-
-{% include projects.html %}
+  </div><!--//tab-panels-->
+</div><!--//tabs-->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -24,8 +24,8 @@ body {
     font-family: $font-sans;
     color: $text-color-secondary;
     background:
-        radial-gradient(1200px 600px at 100% -10%, rgba($theme-color, 0.10), transparent 60%),
-        radial-gradient(900px 500px at -10% 110%, rgba($theme-color, 0.08), transparent 55%),
+        radial-gradient(1100px 560px at 100% -10%, rgba($theme-color, 0.07), transparent 60%),
+        radial-gradient(820px 460px at -10% 110%, rgba($theme-color-light, 0.06), transparent 55%),
         $smoky-white;
     background-attachment: fixed;
     font-size: 15px;
@@ -61,6 +61,7 @@ p {
 .wrapper {
     background: $card-bg;
     max-width: 1080px;
+    min-height: 820px;
     margin: 0 auto;
     position: relative;
     border-radius: 20px;
@@ -242,6 +243,55 @@ p {
     }
 }
 
+/* ======= Tabs ======= */
+.tabs {
+    > input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+        pointer-events: none;
+    }
+}
+.tab-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    border-bottom: 1px solid $divider;
+    margin-bottom: 40px;
+    label {
+        padding: 10px 20px;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        color: $text-grey;
+        cursor: pointer;
+        border-bottom: 2px solid transparent;
+        margin-bottom: -1px;
+        border-radius: 8px 8px 0 0;
+        transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+        &:hover {
+            color: $text-color;
+            background: rgba($theme-color, 0.05);
+        }
+    }
+}
+.tab-panel {
+    display: none;
+}
+#tab-about:checked ~ .tab-nav label[for="tab-about"],
+#tab-research:checked ~ .tab-nav label[for="tab-research"],
+#tab-experience:checked ~ .tab-nav label[for="tab-experience"] {
+    color: $theme-color;
+    border-bottom-color: $theme-color;
+}
+#tab-about:checked ~ .tab-panels .panel-about,
+#tab-research:checked ~ .tab-panels .panel-research,
+#tab-experience:checked ~ .tab-panels .panel-experience {
+    display: block;
+    animation: fadeUp 0.4s ease both;
+}
+
 /* ======= Main content ======= */
 .main-wrapper {
     background: $card-bg;
@@ -261,17 +311,19 @@ p {
         margin-bottom: 26px;
 
         .fa-stack {
-            width: 34px;
-            height: 34px;
-            line-height: 34px;
+            width: 32px;
+            height: 32px;
+            line-height: 32px;
             margin-right: 12px;
-            font-size: 13px;
+            font-size: 12px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, $theme-color, $theme-color-light);
+            box-shadow: 0 4px 10px rgba($theme-color, 0.35);
         }
         .fa-stack .fa-circle {
-            color: $theme-color;
+            display: none;
         }
-        .fa-stack .fa-circle + i,
-        .fa-inverse {
+        .fa-stack .fa-inverse {
             color: #fff;
         }
     }

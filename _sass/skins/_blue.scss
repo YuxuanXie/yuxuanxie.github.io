@@ -1,11 +1,17 @@
-/* Blue variables */
-$theme-color: #2563eb;
-$theme-color-light: #3b82f6;
-$text-color: #1f2937;
-$text-color-secondary: #4b5563;
-$text-grey: #6b7280;
-$divider: #e5e7eb;
-$lighter-grey: #cbd5e1;
-$darker-grey: #475569;
-$smoky-white: #f4f6fb;
+/* Blue variables (refined indigo/violet accent) */
+$theme-color: #4f46e5;
+$theme-color-light: #8b5cf6;
+$text-color: #1e2233;
+$text-color-secondary: #4b5169;
+$text-grey: #7a819a;
+$divider: #e7e8ef;
+$lighter-grey: #cbd0e0;
+$darker-grey: #454b63;
+$smoky-white: #f5f6fb;
 $heart: #fb7185;
+
+/* Sidebar: deep indigo-charcoal to harmonize with the accent */
+$sidebar-bg-start: #211f36;
+$sidebar-bg-end: #12101f;
+$sidebar-text: #e5e6f0;
+$sidebar-muted: #9a9ab8;
