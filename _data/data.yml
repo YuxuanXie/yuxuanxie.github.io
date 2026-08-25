@@ -43,6 +43,9 @@ news:
 
     posts:
 
+        - time: Aug 2026
+          title: Our game-evaluation benchmark paper GameXpert-Bench is now on arXiv.
+
         - time: 2026
           title: I will attend ECCV 2026.
 
@@ -219,6 +222,11 @@ publications:
     intro: |
 
     papers:
+
+      - title: "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?"
+        authors: "Kun Chen, Haorong Hong, Peizhong Gao, Jianfeng Lin, Tongxu Luo, Yuxuan Xie, Chenxu Liu, Jieling He, Zhongyuan Liu, Zeno Zeng"
+        conference: arXiv preprint, 2026
+        link: "https://kwen-chen.github.io/GameXpert-Bench/"
 
       - title: "GALA: Geometry-Aware Language Model for Controllable Object Arrangement"
         authors: "Chucheng Xiang, Runze Wang, Zhi Deng, Ruchao Bao, Yuanwei Zhang, Yuxuan Xie, Hanliu Wang, Liangzhen Fei, Wenzheng Wu, Cheng Wan, Peifeng Li, Zhongyuan Liu, Ligang Liu"
